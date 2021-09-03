@@ -1,3 +1,1 @@
-Java, C++
-
-[Twitter](https://twitter.com/Rires_Magica)
+WRITING JAVA-STYLE CODE IN C++
